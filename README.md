@@ -4,7 +4,7 @@
 
 Dieses Projekt ist ein interaktives Power BI Dashboard, das Verkaufsdaten eines fiktiven Kaffeeunternehmens visualisiert und analysiert. Ziel war es, aussagekräftige Einblicke in vier zentrale Bereiche zu gewinnen: die monatliche Umsatz- und Transaktionsentwicklung, die Umsatzverteilung nach Tageszeit, die Umsatzleistung nach Kaffeesorte sowie zentrale Kennzahlen wie Gesamtumsatz, Transaktionsanzahl und Durchschnittspreis. Das Dashboard ermöglicht eine flexible und detaillierte Analyse des Verkaufsverhaltens.
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ![](1.png)
 
